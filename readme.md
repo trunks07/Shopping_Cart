@@ -8,7 +8,7 @@
 </p>
 
 # Shopping Cart
-A simple shopping cart 
+- A simple shopping cart 
 - this website is made using laravel
 
 ## Home Page
@@ -18,7 +18,7 @@ A simple shopping cart
 - when you click the button "add to cart" without logibg ib it will automatically redirect you to the login page
  ![Home page](https://github.com/trunks07/Shopping_Cart/blob/master/ShoppingCartScreenShot/2.PNG)
   
-## welcome page 
+## Welcome page 
 - after loging in you will see this pag of the website wherein you can buy 
  ![Home page](https://github.com/trunks07/Shopping_Cart/blob/master/ShoppingCartScreenShot/3.PNG)
  
