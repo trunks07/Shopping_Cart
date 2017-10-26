@@ -7,6 +7,30 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+# Shopping Cart
+A simple shopping cart 
+- this website is made using laravel
+
+## Home Page
+ ![Home page](https://github.com/trunks07/Shopping_Cart/blob/master/ShoppingCartScreenShot/1.PNG)
+ 
+## Login
+- when you click the button "add to cart" without logibg ib it will automatically redirect you to the login page
+ ![Home page](https://github.com/trunks07/Shopping_Cart/blob/master/ShoppingCartScreenShot/2.PNG)
+  
+## welcome page 
+- after loging in you will see this pag of the website wherein you can buy 
+ ![Home page](https://github.com/trunks07/Shopping_Cart/blob/master/ShoppingCartScreenShot/3.PNG)
+ 
+## Successfully add product to cart 
+![Home page](https://github.com/trunks07/Shopping_Cart/blob/master/ShoppingCartScreenShot/4.PNG)
+
+## View cart 
+![Home page](https://github.com/trunks07/Shopping_Cart/blob/master/ShoppingCartScreenShot/5.PNG)
+
+## Checkout
+![Home page](https://github.com/trunks07/Shopping_Cart/blob/master/ShoppingCartScreenShot/6.PNG)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
